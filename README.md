@@ -6,7 +6,7 @@ p3D-DIR port. Program to show the directory of a disk image file, together with 
 LICENSE
 ===============
 * Not Specified.
-* 
+ 
 COMPILE TOOLS
 ===============
 * 
